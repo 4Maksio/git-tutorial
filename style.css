@@ -1,0 +1,9 @@
+*
+{
+	margin:0;
+}
+table,
+td
+{
+	border: solid red 2px;
+}
